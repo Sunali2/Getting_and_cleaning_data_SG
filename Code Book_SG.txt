@@ -1,0 +1,18 @@
+
+Variable descriptions:
+
+Subject = subject ID
+Activity = activity label assigned 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+Mean_BODY_ACC_X/Y/Z = mean of body acceleration according to patterns X, Y, or Z
+Std_BODY_ACC_X/Y/Z = standard deviation of body acceleration according to patterns X, Y, or Z
+Mean_GYRO_ACC_X/Y/Z = mean of body angular velocity according to patterns X, Y, or Z
+Std_GYRO_ACC_X/Y/Z = standard deviation of body angular velocity to patterns X, Y, or Z
+Mean_TOTL_ACC_X/Y/Z = mean of total acceleration according to patterns X, Y, or Z
+Std_TOTAL_ACC_X/Y/Z = standard deviation of total acceleration according to patterns X, Y, or Z
